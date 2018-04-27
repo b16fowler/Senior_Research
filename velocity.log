@@ -1,0 +1,20 @@
+2018-04-27 10:49:43,886 - ResourceCache : initialized. (class org.apache.velocity.runtime.resource.ResourceCacheImpl)
+2018-04-27 10:49:43,887 - Default ResourceManager initialization complete.
+2018-04-27 10:49:43,906 - Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+2018-04-27 10:49:43,923 - Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+2018-04-27 10:49:43,951 - Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+2018-04-27 10:49:43,968 - Loaded System Directive: org.apache.velocity.runtime.directive.Include
+2018-04-27 10:49:43,979 - Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+2018-04-27 10:49:44,206 - Created: 20 parsers.
+2018-04-27 10:49:44,278 - Velocimacro : initialization starting.
+2018-04-27 10:49:44,278 - Velocimacro : adding VMs from VM library template : VM_global_library.vm
+2018-04-27 10:49:44,305 - ResourceManager : unable to find resource 'VM_global_library.vm' in any resource loader.
+2018-04-27 10:49:44,305 - Velocimacro : error using  VM library template VM_global_library.vm : org.apache.velocity.exception.ResourceNotFoundException: Unable to find resource 'VM_global_library.vm'
+2018-04-27 10:49:44,305 - Velocimacro :  VM library template macro registration complete.
+2018-04-27 10:49:44,305 - Velocimacro : allowInline = true : VMs can be defined inline in templates
+2018-04-27 10:49:44,305 - Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+2018-04-27 10:49:44,305 - Velocimacro : allowInlineLocal = false : VMs defined inline will be  global in scope if allowed.
+2018-04-27 10:49:44,305 - Velocimacro : messages on  : VM system will output logging messages
+2018-04-27 10:49:44,305 - Velocimacro : autoload off  : VM system will not automatically reload global library macros
+2018-04-27 10:49:44,305 - Velocimacro : initialization complete.
+2018-04-27 10:49:44,305 - Velocity successfully started.
